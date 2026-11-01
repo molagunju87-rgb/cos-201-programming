@@ -7,5 +7,5 @@ COS 201 Programming Portfolio
 - Completed: 2 Nov 2026
 
 ## Student
-GitHub: your-username
+GitHub: molagunju87-rgb
 Course: COS 201
